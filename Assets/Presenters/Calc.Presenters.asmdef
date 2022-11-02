@@ -1,0 +1,17 @@
+{
+    "name": "Calc.Presenters",
+    "rootNamespace": "",
+    "references": [
+        "GUID:250c48b09f176854daf252fbcbe6de56",
+        "GUID:9a896d8e8e9247b48aea2a90b89685bb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
